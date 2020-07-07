@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.654" height="41.006" viewBox="0 0 40.654 41.006">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#e56920;stroke-miterlimit:10;stroke-width:2px}.cls-2{fill:#e3641f}
+        </style>
+    </defs>
+    <g id="No_Compound" transform="translate(-60.077 -535.823)">
+        <g id="discount" transform="translate(61.077 536.824)">
+            <ellipse id="Ellipse_286" cx="15.509" cy="15.581" class="cls-1" data-name="Ellipse 286" rx="15.509" ry="15.581" transform="translate(3.818 3.922)"/>
+            <ellipse id="Ellipse_287" cx="19.327" cy="19.503" class="cls-1" data-name="Ellipse 287" rx="19.327" ry="19.503"/>
+            <ellipse id="Ellipse_288" cx="12.299" cy="12.283" class="cls-1" data-name="Ellipse 288" rx="12.299" ry="12.283" transform="translate(7.028 7.22)"/>
+            <g id="Group_15" data-name="Group 15" transform="translate(4.614 4.79)">
+                <rect id="Rectangle_423" width="2.083" height="39.533" class="cls-2" data-name="Rectangle 423" rx=".37" transform="rotate(45 13.984 33.743)"/>
+            </g>
+        </g>
+        <path id="Path_41" d="M69.551 547.179a2.506 2.506 0 1 1 2.507-2.5 2.505 2.505 0 0 1-2.507 2.5zm0-3.342a.836.836 0 1 0 .835.837.836.836 0 0 0-.835-.836z" class="cls-2" data-name="Path 41" transform="translate(8.347 7.476)"/>
+        <path id="Path_42" d="M71.641 550.662a2.506 2.506 0 1 1 2.507-2.5 2.505 2.505 0 0 1-2.507 2.5zm0-3.342a.836.836 0 1 0 .835.837.834.834 0 0 0-.835-.836z" class="cls-2" data-name="Path 42" transform="translate(11.271 12.349)"/>
+    </g>
+</svg>

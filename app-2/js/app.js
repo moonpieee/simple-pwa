@@ -91,28 +91,32 @@ reset.addEventListener("click", () => { R.resetPage() });
 
 // load more data event
 loadMore.addEventListener("click", () => {
-    loadMoreData(myObj.pageNo).then(({ result }) => {
-        R.rebuildDataset(dataSet, result).then((d) => {
-            myObj.pageNo = (myObj.pageNo + 1);
-            console.log('next page no', myObj.pageNo);
-            let items = "";
-            dataSet.forEach((el) => {
-                let statusClass = ""
-                switch (el.transactionStatusId) {
-                    case 1:
-                        statusClass = "success";
-                        items += R.generateTransactionHTML('Success', statusClass, el);
-                        break;
-                    case 4:
-                        statusClass = "danger";
-                        items += R.generateTransactionHTML('Failure', statusClass, el);
-                        break;
-                    default:
-                        break;
-                }
+    loadMoreData(myObj.pageNo).then((res) => {
+        if (res.status === 200) {
+            R.rebuildDataset(dataSet, res.result).then((d) => {
+                myObj.pageNo = (myObj.pageNo + 1);
+                console.log('next page no', myObj.pageNo);
+                let items = "";
+                dataSet.forEach((el) => {
+                    let statusClass = ""
+                    switch (el.transactionStatusId) {
+                        case 1:
+                            statusClass = "success";
+                            items += R.generateTransactionHTML('Success', statusClass, el);
+                            break;
+                        case 4:
+                            statusClass = "danger";
+                            items += R.generateTransactionHTML('Failure', statusClass, el);
+                            break;
+                        default:
+                            break;
+                    }
+                });
+                container.innerHTML = items;
             });
-            container.innerHTML = items;
-        });
+        } else {
+            alert(`${res.UserMsg}`);
+        }
     }).catch((err) => {
         alert("Error in fetching data !!")
     });

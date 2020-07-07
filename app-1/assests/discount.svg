@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.629" height="24.124" viewBox="0 0 38.629 24.124">
+    <defs>
+        <style>
+            .cls-1{fill:#fafafa}.cls-2{fill:none;stroke:#dd581c;stroke-width:2.5px}
+        </style>
+    </defs>
+    <g id="discount" transform="translate(5.552 -3.863)">
+        <g id="Group_15" data-name="Group 15" transform="translate(9.06 9.479)">
+            <path id="Path_41" d="M162.506 133a2.484 2.484 0 1 1 2.484-2.484 2.487 2.487 0 0 1-2.484 2.484zm0-3.313a.828.828 0 1 0 .828.828.828.828 0 0 0-.828-.824z" class="cls-1" data-name="Path 41" transform="translate(-160.022 -128.034)"/>
+            <path id="Path_42" d="M258.506 293a2.484 2.484 0 1 1 2.484-2.484 2.487 2.487 0 0 1-2.484 2.484zm0-3.313a.828.828 0 1 0 .828.828.831.831 0 0 0-.828-.824z" class="cls-1" data-name="Path 42" transform="translate(-251.053 -279.753)"/>
+            <path id="Path_43" d="M160.864 141.268a.828.828 0 0 1-.672-1.31l8.281-11.594a.828.828 0 0 1 1.348.962l-8.281 11.594a.832.832 0 0 1-.676.348z" class="cls-1" data-name="Path 43" transform="translate(-160.036 -128.017)"/>
+        </g>
+        <g id="View" transform="translate(-4 5.113)">
+            <path id="Path_1178" d="M856.526 511.812s-7.952 10.812-17.763 10.812S821 511.812 821 511.812 828.952 501 838.763 501s17.763 10.812 17.763 10.812z" class="cls-2" data-name="Path 1178" transform="translate(-821 -501)"/>
+            <ellipse id="Ellipse_280" cx="5.406" cy="5.406" class="cls-2" data-name="Ellipse 280" rx="5.406" ry="5.406" transform="translate(12.357 5.406)"/>
+        </g>
+    </g>
+</svg>

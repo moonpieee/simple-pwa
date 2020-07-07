@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213" height="40.818" viewBox="0 0 213 40.818">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;font-size:18px;font-family:Arial-BoldMT,Arial;font-weight:700;letter-spacing:-.04em}.cls-2,.cls-3{fill:#f0f0f0;font-family:Gilroy-Medium,Gilroy;font-weight:500;font-size:8px}.cls-3{fill:#e5e5e5;font-family:Gilroy-Semibold,Gilroy;font-weight:600}
+        </style>
+    </defs>
+    <g id="Rbi" transform="translate(0 11.621)">
+        <text id="RESERVE_BANK_OF_INDIA" class="cls-1" data-name="RESERVE BANK OF INDIA" transform="translate(0 14)">
+            <tspan x="0" y="0">RESERVE BANK OF INDIA</tspan>
+        </text>
+        <text id="Regn_No._N-02.00290" class="cls-2" data-name="Regn No. N-02.00290" transform="translate(0 27.196)">
+            <tspan x="0" y="0">Regn No. N-02.00290</tspan>
+        </text>
+        <text id="APPROVED_BY" class="cls-3" data-name="APPROVED BY" transform="translate(0 -5.621)">
+            <tspan x="0" y="0">APPROVED BY</tspan>
+        </text>
+    </g>
+</svg>
