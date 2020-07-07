@@ -1,4 +1,4 @@
-
+// @ts-ignore
 let myObj = {
     pageNo: 1
 }
