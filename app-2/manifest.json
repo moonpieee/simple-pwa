@@ -1,0 +1,9 @@
+{
+    "name": "Rupeek Assignment",
+    "short_name": "Demo App",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#F26822",
+    "orientation": "portrait-primary"
+}
